@@ -10,7 +10,7 @@ The right angle sockets are placed on a 1.27mm grid, so check and double check y
 ![image2](Images/0001-02.png)
 ![image3](Images/0001-03.png)
 
- - [Schematic](0001-Schematic.pfd)
+ - [Schematic](0001-Schematic.pdf)
  - [One page](0001-Single-page.pdf)
 # KiCAD
 Developed with [Kicad 8.0](https://www.kicaad.org)
@@ -21,3 +21,5 @@ Released under the [CERN-OHL-W ver 2](https://cern-ohl.web.cern.ch/home)
 # Release Notes
 ## rev A
 Nothing special.  June 2024.
+
+  
