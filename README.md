@@ -6,6 +6,12 @@ Both the Hirose connector and right angle sockets are more expensive than the ty
 Not all 100 pins of the FX2 are used therefore three 10x2 sockets were able to provide all connectivity.
 The right angle sockets are placed on a 1.27mm grid, so check and double check your pin header spacing when interfacing to this design.
 
+![image1](Images/0001-01.png)
+![image2](Images/0001-02.png)
+![image3](Images/0001-03.png)
+
+ - [Schematic](0001-Schematic.pfd)
+ - [One page](0001-Single-page.pdf)
 # KiCAD
 Developed with [Kicad 8.0](https://www.kicaad.org)
 
